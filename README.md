@@ -12,11 +12,12 @@ This lab introduces fundamental web design concepts through a people-centered de
 - **Lab 6:** WordPress Themes and Site-Building
 
 ## Design Techniques
-- **User Story Mapping:** A visual representation of a user's journey through a product, aligning user goals with product features.
-- **Asset Inventories:** A catalog of key design elements, including text, images, and interactive components.
-- **Site Maps:** A structured diagram showing the hierarchy and navigation flow of a website.
-- **Low-Fidelity and High-Fidelity Prototyping:** Creating wireframes and detailed visual designs to test and refine ideas.
-- **Content Management Systems:** Platforms like WordPress that simplify website creation and management.
+- **User Story Mapping:** A visual framework that outlines a user's journey through a product, connecting their main objectives (epics) with the key tasks required to achieve them. Tasks are organized by their importance and frequency, creating relatable stories that reflect real user experiences.
+- **Asset Inventories:** Details how a site or application is organized mapping the pages and contents of each page, allowing contributions to be made easily by future editors.
+- **Site Maps:** A structured diagram showing the hierarchy and navigation flow of each page of a website.
+- **Low-Fidelity Prototyping:** Quick and simple prototypes to test rough layout and visuals
+- **High-Fidelity Prototyping:** Detailed protypes that inlcude detailed visual aspects and interactions of a site.
+- **Content Management Systems:** Platforms like WordPress that simplify website creation and management to allow clients to make effective sites without knowing how to code.
 
 ## Technologies Used
 **Design and Prototyping:**
