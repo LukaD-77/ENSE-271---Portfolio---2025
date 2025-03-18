@@ -1,0 +1,9 @@
+Task: Create a User Story Map for a Grocery Delivery App
+
+Description: Create a USM for a grocery delivery application that includes:
+
+- 3 main goals of the app (Epics)  
+- 6 steps to accomplish the main goals (Create a walking skeleton)   
+- 18 total tasks needed to accomplish the steps   
+- 2 releases including a Minimum Viable Product (MVP) and some unscheduled tasks   
+- 1 extra feature in StoriesOnBoard
