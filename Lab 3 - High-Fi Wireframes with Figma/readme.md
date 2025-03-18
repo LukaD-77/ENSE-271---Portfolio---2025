@@ -1,4 +1,4 @@
-# Task: Create a High-Fidelity Prototype Using Figma
+# Task: Create a High-Fidelity Wireframe Using Figma
 
 ## Description
 Try to replicate a UI design from the web on Figma that includes:
