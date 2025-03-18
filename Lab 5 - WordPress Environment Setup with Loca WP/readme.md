@@ -1,4 +1,4 @@
-# Task: Create a Persona That is Buying Tickets for a Concert and Make a Blog Page for the Persona
+# Task: Create a Persona that is Buying Tickets for a Concert and Make a Blog Page for the Persona
 
 ## Description
 Create a blog website for a designed persona by following these steps:
